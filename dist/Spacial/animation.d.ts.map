@@ -1,0 +1,1 @@
+{"version":3,"file":"animation.d.ts","sourceRoot":"","sources":["../../src/Spacial/animation.ts"],"names":[],"mappings":"AAAA,eAAO,MAAM,gBAAgB,QAE1B,MAEF,CAAA;AAED,MAAM,MAAM,yBAAyB,GAAG,uBAAuB,CAAA;AAE/D,MAAM,MAAM,uBAAuB,GAAG;IAClC,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,QAAQ,EAAE,MAAM,CAAA;CACnB,CAAA"}
